@@ -1,0 +1,46 @@
+[
+  {
+    "name": "skeleton",
+    "armor": 15,
+    "health": 8,
+    "experience": 10,
+    "gold": 5,
+    "minimum_damage": 1,
+    "maximum_damage": 3,
+    "attack_bonus": 0,
+    "portrait": "skeleton.png"
+  },
+  {
+    "name": "goblin",
+    "armor": 10,
+    "health": 10,
+    "experience": 10,
+    "gold": 8,
+    "minimum_damage": 1,
+    "maximum_damage": 3,
+    "attack_bonus": 3,
+    "portrait": "goblin.png"
+  },
+  {
+    "name": "ogre",
+    "armor": 10,
+    "health": 20,
+    "experience": 20,
+    "gold": 15,
+    "minimum_damage": 5,
+    "maximum_damage": 8,
+    "attack_bonus": 6,
+    "portrait": "ogre.png"
+  },
+  {
+    "name": "dragon",
+    "armor": 15,
+    "health": 40,
+    "experience": 50,
+    "gold": 50,
+    "minimum_damage": 10,
+    "maximum_damage": 15,
+    "attack_bonus": 8,
+    "portrait": "dragon.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "barbarian",
+    "base_armor": 10,
+    "base health": 20,
+    "armor_modifier": 1,
+    "health_modifier": 3,
+    "portraits": [
+      "barbarian_1.png","barbarian_2.png","barbarian_3.png"
+    ]
+  },
+  {
+    "name": "rogue",
+    "base_armor": 15,
+    "base_health": 15,
+    "armor_modifier": 2,
+    "health_modifier": 2,
+    "portraits": [
+      "rogue_1.png","rogue_2.png","rogue_3.png"
+    ]
+  }
+]
